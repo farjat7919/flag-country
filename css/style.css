@@ -1,0 +1,54 @@
+.Flag-Bangladesh {
+    width: 16cm;
+    height: 7cm;
+    background-color: #006a4e;
+    border: 1px solid #006a4e;
+    position: relative;
+    margin: 10%;
+}
+.Flag-Bangladesh .fatjat {
+    width: 4.5cm;
+    height: 4.5cm;
+    background-color: red;
+    border-radius: 50%;
+    position: absolute;
+    top: 50%;
+    left: 48%;
+    transform: translate(-50%, -50%);
+}
+
+
+
+.Flag-yemen {
+    width: 400px;
+    height: 250px;
+    border:1px solid black;
+    margin: 10%;
+    position: relative;
+    left: 0;
+    top: 0;   
+}
+.Flag-yemen .red {
+    width: 33%;
+    height: 100%;
+    background-color: red;
+}
+.Flag-yemen .white {
+    width: 33%;
+    height: 100%;
+    background-color: white;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    top: 0;
+    margin: auto;
+}
+.Flag-yemen .black {
+    width: 33%;
+    height: 100%;
+    background-color:black;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
